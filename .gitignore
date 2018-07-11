@@ -1,0 +1,10 @@
+/logs/*
+*error_log
+wp-config.php
+/wp-content/cache/*
+/wp-content/uploads/*
+/wp-content/plugins/*
+/vendor/
+/.idea/
+composer.lock
+.htaccess
